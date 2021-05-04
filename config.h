@@ -11,8 +11,9 @@ static const Block blocks[] = {
     /* {"",	"internet",	5,	4}, */
     {"",    "stalonetray.sh", 0, 27},
     /* {"?",   "sleep 2s && date", 1, 8}, */
-    {"",	"cpupercent.sh",	1,	19},
+    {"",	"notifications",	0,	20},
     {"",	"sound",	0,	17},
+    {"",	"cpupercent.sh",	1,	19},
 	{"",	"battery",	5,	3},
 	{"",	"clock",	1,	1},
 };
